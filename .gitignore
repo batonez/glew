@@ -13,10 +13,16 @@
 /build/cmake/CMakeCache.txt
 /build/cmake/cmake_install.cmake
 /build/cmake/Makefile
+/build/CMakeCache.txt
+/build/CMakeFiles/
+/build/cmake_uninstall.cmake
 /auto/extensions
 /auto/registry
 /bin
 /lib
 /tmp
 /out
+/auto/EGL-Registry
+/auto/OpenGL-Registry
+/auto/glfixes
 .DS_Store*
